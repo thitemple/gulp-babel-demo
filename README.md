@@ -11,4 +11,4 @@ npm install
 gulp
 ```
 
-The results of the are show in the browser's console.
+The results are shown in the browser's console.
