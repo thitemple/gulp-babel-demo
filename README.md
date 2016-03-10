@@ -12,3 +12,9 @@ gulp
 ```
 
 The results are shown in the browser's console.
+
+To run the test just run:
+
+```
+gulp test
+```
