@@ -48,6 +48,4 @@ gulp.task('watch', function() {
 	gulp.watch('./src/*.html', ['html']);
 });
 
-gulp.task('default', ['js', 'html', 'connect', 'watch'], function() {
-
-});
+gulp.task('default', ['js', 'html', 'connect', 'watch']);
